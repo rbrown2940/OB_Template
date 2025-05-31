@@ -1,4 +1,19 @@
-<div align="center">
+# Special Thanks
+
+<details>
+<summary></summary>
+
+First of all, this list is not based on how much, how often or how significant the contribution was made.
+
+If at any point you have helped this project and your name is not here, I apologize but this section was introduced a bit too far into the project creation. However, you are welcome to contact me directly on the Forum or in Discord (Zektor#5616).
+
+<a href="https://github.com/FeFoe">Felix Förster</a> - Miss placed link correction
+
+<a href="https://github.com/kaleblub">Kaleb</a> - Added links to all plugins that are mentioned on the project as well as corrected some typos.
+
+<a href="https://github.com/dbarenholz">Daniel Barenholz</a> - The template <a href="https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md">Word Dictionary</a> was created based on a conversation we had on Discord out of my need to create a dictionary for acronyms. Hero Achievement ✨
+
+</details><div align="center">
 
 ![ob_Templates](https://user-images.githubusercontent.com/89364200/178482594-6c5673bc-6c21-46a5-a048-b2fafcf90407.png)
 
@@ -113,18 +128,18 @@ A: For any queries please head to the Obsidian forum and check the <a href="http
 ---
 
 # Special Thanks 
+
 <details>
 <summary></summary>
 
 First of all, this list is not based on how much, how often or how significant the contribution was made.
 
-If at any point you have helped this project and you're name is not here, I apologize but this section was introduced a bit to far into the project creation. However you are welcome to contact me directly on the Forum or in Discord (Zektor#5616)
+If at any point you have helped this project and your name is not here, I apologize but this section was introduced a bit too far into the project creation. However, you are welcome to contact me directly on the Forum or in Discord (Zektor#5616).
 
 <a href="https://github.com/FeFoe">Felix Förster</a> - Miss placed link correction
 
-<a href="https://github.com/kaleblub">Kaleb</a> - Added links to all plugin that are mentioned on the project as well as corrected some typos.
+<a href="https://github.com/kaleblub">Kaleb</a> - Added links to all plugins that are mentioned on the project as well as corrected some typos.
 
 <a href="https://github.com/dbarenholz">Daniel Barenholz</a> - The template <a href="https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md">Word Dictionary</a> was created based on a conversation we had on Discord out of my need to create a dictionary for acronyms. Hero Achievement ✨
-
 
 </details>
